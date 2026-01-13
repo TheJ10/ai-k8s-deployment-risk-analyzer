@@ -1,4 +1,4 @@
-# Reusable Backend Base
+# AI K8s Deployment risk analyzer
 
 This repository provides a clean, reusable FastAPI backend foundation intended to be forked and extended by other projects such as Kubernetes-based systems or multi-cloud deployments.
 
